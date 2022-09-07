@@ -1,6 +1,6 @@
 manifest:
   self:
-    path: hello-zephyr
+    path: ble-mesh-atmospheric-sensor
 
   remotes:
     - name: zephyrproject-rtos
