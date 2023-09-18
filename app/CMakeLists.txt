@@ -12,4 +12,5 @@ target_include_directories(app PRIVATE ${CMAKE_BINARY_DIR}/app/include src)
 
 target_sources(app PRIVATE src/main.c
                    PRIVATE src/board.c
+                   PRIVATE src/sensor.c
     )
